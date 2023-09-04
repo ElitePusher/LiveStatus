@@ -1,9 +1,9 @@
 <?php
 $services = [
-    ['name' => 'Website', 'ip' => '89.203.248.150', 'port' => 80],
-    ['name' => 'DDoS Protection', 'ip' => '89.203.248.150', 'port' => 80],
-    ['name' => 'MySQL Server', 'ip' => '89.203.248.150', 'port' => 80],
-    ['name' => 'Link Website', 'ip' => '89.203.248.150', 'port' => 80]
+    ['name' => 'Website', 'ip' => '', 'port' => 80],
+    ['name' => 'DDoS Protection', 'ip' => '', 'port' => 80],
+    ['name' => 'MySQL Server', 'ip' => '', 'port' => 80],
+    ['name' => 'Link Website', 'ip' => '', 'port' => 80]
 ];
 
 $serviceStatus = [];
